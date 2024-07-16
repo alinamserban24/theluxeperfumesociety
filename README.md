@@ -61,7 +61,7 @@ Room for improvement:
 
 To Do:
 <ul>
-  <li>Add more CSS.</li>
+  <li>Add more CSS effects.</li>
   <li>Add JavaScript.</li>
 </ul>
 
