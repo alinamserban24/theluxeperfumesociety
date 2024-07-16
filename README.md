@@ -54,6 +54,7 @@ Project is: in progress
 Room for improvement:
 <ul>
   <li>Improve responsiveness, providing optimal display across different viewport sizes.</li>
+  <li>Adjust NavBar responsiveness on medium and small screens.</li>
 </ul>
 
 To Do:
