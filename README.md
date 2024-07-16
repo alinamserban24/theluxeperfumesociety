@@ -5,13 +5,12 @@ Website created with HTML, CSS, BOOTSTRAP and JavaScript, using the Grid System.
 ## Table of Contents
 </hr>
 
-<ul>
-  <li>General Info</li>
-  <li>Technologies Used</li>
-  <li>Project Status</li>
-  <li>Room for Improvement</li>
-  <li>Acknowledgements</li>
-</ul>
+[General Info](#general-information)
+[Technologies Used](#technologies-used)
+[Project Status](#project-status)
+[Room for Improvement](#room-for-improvement)
+[Acknowledgements](#acknowledgements)
+
 
 ## General Information
 </hr>
