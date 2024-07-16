@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "League Spartan", sans-serif;
+  overflow-x: hidden;
+}
+
+.nav-link-overline::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: currentColor;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.4s ease-in-out;
+}
+
+.nav-link-overline:hover::before {
+  transform: scaleX(1);
+  color: #edafb8;
+}
+
+.nav-link:hover {
+  color: #edafb8;
+  transition: background 0.4s ease-in-out;
+}
+
+.nav-link-overline {
+  position: relative;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  top: 0;
+}
+
+body {
+  padding-top: 90px;
+}
+
+footer {
+  background-color: #edede9;
+  font-family: "League Spartan", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+footer p {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+}
+
+#reserved {
+  border-top: 0.5px solid black;
+  background-color: #e0e1dd;
+}
+
+.container h1 {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.container p {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 320;
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+.spanunderline {
+  text-decoration: underline;
+}
+
+form {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 320;
+  font-size: 1.1rem;
+  border-radius: 0;
+}
+
+#button {
+  position: relative;
+  letter-spacing: 0.2rem;
+  font-weight: 300;
+  font-family: "League Spartan", sans-serif;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  transition: color 0.5s, background-color 0.5s;
+  text-align: center;
+  cursor: pointer;
+  padding: 10px 20px;
+  overflow: hidden;
+  border-radius: 0;
+}
+
+#button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  transition: left 0.2s;
+  z-index: -1;
+}
+
+#button:hover {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 0;
+}
+
+textarea {
+  resize: none;
+}
