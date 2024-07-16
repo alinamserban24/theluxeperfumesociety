@@ -8,6 +8,7 @@ Website created with HTML, CSS, BOOTSTRAP and JavaScript, using the Grid System.
 [General Info](#general-information) </br>
 [Technologies Used](#technologies-used) </br>
 [Project Status](#project-status) </br>
+[Screenshots](#screenshots)
 [Room for Improvement](#room-for-improvement) </br>
 [Acknowledgements](#acknowledgements) </br>
 
