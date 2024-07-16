@@ -56,10 +56,11 @@ Room for improvement:
   <li>Improve responsiveness, providing optimal display across different viewport sizes.</li>
 </ul>
 
-To do:
+To Do:
 <ul>
   <li>Add JavaScript</li>
 </ul>
+
 ## Acknowledgements
 </hr>
 
