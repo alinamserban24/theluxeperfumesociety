@@ -51,6 +51,15 @@ Project is: in progress
 ## Room for Improvement
 </hr>
 
+Room for improvement:
+<ul>
+  <li>Improve responsiveness, providing optimal display across different viewport sizes.</li>
+</ul>
+
+To do:
+<ul>
+  <li>Add JavaScript</li>
+</ul>
 ## Acknowledgements
 </hr>
 
