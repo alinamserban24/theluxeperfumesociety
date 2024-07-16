@@ -59,11 +59,12 @@ Room for improvement:
 
 To Do:
 <ul>
-  <li>Add JavaScript</li>
+  <li>Add JavaScript.</li>
 </ul>
 
 ## Acknowledgements
 </hr>
 
+Photos by [Unsplash](https://unsplash.com/)
 
 
