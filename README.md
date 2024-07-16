@@ -42,6 +42,12 @@ Project is: in progress
 
 ![theluxeperfumesociety](https://github.com/user-attachments/assets/b04ee3f6-9a45-44dd-be34-fdfc63f2d17a)
 
+![theluxeperfumesociety2](https://github.com/user-attachments/assets/ec39bcd0-e6c8-49c2-a1df-26756e09231e)
+
+![theluxeperfumesociety3](https://github.com/user-attachments/assets/5f283f82-4feb-41fc-9dae-e52f01af04ab)
+
+
+
 ## Room for Improvement
 </hr>
 
