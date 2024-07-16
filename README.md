@@ -37,6 +37,9 @@ Website created with HTML, CSS, BOOTSTRAP and JavaScript.
 
 Project is: in progress
 
+## Screenshots
+</hr>
+
 ## Room for Improvement
 </hr>
 
