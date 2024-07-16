@@ -65,9 +65,8 @@ To Do:
 ## Acknowledgements
 </hr>
 
-<ul>
-  <li>Photos by [Unsplash](https://unsplash.com/)</li>
-</ul>
+Photos by [Unsplash](https://unsplash.com/)
+
 
 
 
