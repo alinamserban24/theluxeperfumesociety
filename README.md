@@ -12,3 +12,6 @@ Website created with HTML, CSS, BOOTSTRAP and JavaScript.
   <li>Room for Improvement</li>
   <li>Acknowledgements</li>
 </ul>
+
+## General Information
+</hr>
