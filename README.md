@@ -15,3 +15,19 @@ Website created with HTML, CSS, BOOTSTRAP and JavaScript.
 
 ## General Information
 </hr>
+
+
+## Technologies Used
+</hr>
+
+## Project Status
+</hr>
+
+## Room for Improvement
+</hr>
+
+## Acknowledgements
+</hr>
+
+
+
