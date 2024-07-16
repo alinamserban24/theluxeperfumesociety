@@ -1,6 +1,6 @@
 # The Luxe Perfume Society </br>
 </hr>
-Website created with HTML, CSS, Bootstrap and JavaScript, using the Grid System.
+Website created with HTML, CSS, Bootstrap using the Grid System.
 
 ## Table of Contents
 </hr>
@@ -31,7 +31,7 @@ Website created with HTML, CSS, Bootstrap and JavaScript, using the Grid System.
   <li>HTML5</li>
   <li>CCS</li>
   <li>BOOTSTRAP v5.3</li>
-  <li>JavaScript</li>
+  <li>Grid System</li>
 </ul>
 
 ## Project Status
